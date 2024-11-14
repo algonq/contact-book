@@ -1,0 +1,12 @@
+/* src/assets/main.css */
+body {
+    margin: 0;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  h1 {
+    color: #42b983;
+  }
+  
